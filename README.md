@@ -21,5 +21,6 @@ Game Over
 
 ![lose](https://user-images.githubusercontent.com/92816090/219660055-214a7dee-a8e4-4c28-8282-51352c8ea0c0.jpg)
 
+
 Kaybetmeniz durumunda yeniden başlayabilir yada 20 coin ile kaldıgınız yerden devam edebilirsiniz
 
