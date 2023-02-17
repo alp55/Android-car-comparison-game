@@ -7,7 +7,7 @@
 
 Geciş Ekranı
 
-![next](https://user-images.githubusercontent.com/92816090/219659498-51820855-f98c-4298-8a37-43a131ec0074.jpg
+![next](https://user-images.githubusercontent.com/92816090/219659498-51820855-f98c-4298-8a37-43a131ec0074.jpg)
 
 Skor Ekranı
 
@@ -20,5 +20,6 @@ Lv : Seviye sistemini temsil eder
 Game Over
 
 ![lose](https://user-images.githubusercontent.com/92816090/219660055-214a7dee-a8e4-4c28-8282-51352c8ea0c0.jpg)
+
 Kaybetmeniz durumunda yeniden başlayabilir yada 20 coin ile kaldıgınız yerden devam edebilirsiniz
 
